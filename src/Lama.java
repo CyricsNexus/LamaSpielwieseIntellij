@@ -7,9 +7,15 @@ public class Lama{
         System.out.println("Lama erstellt");
     }
 
-    public void laserLama() { System.out.println("Laser pew pew"); }
+    public void laserLama() {
+        System.out.println("Laser pew pew");
+    }
 
     public void sayByeBye(){
         System.out.println("Hasta la vista Lama");
+    }
+
+    public void useJetpack(){
+        System.out.println("Come fly with me");
     }
 }
