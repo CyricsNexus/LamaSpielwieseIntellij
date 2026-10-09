@@ -14,4 +14,8 @@ public class Lama{
     public void sayByeBye(){
         System.out.println("Hasta la vista Lama");
     }
+
+    public void useJetpack(){
+        System.out.println("Come fly with me");
+    }
 }
