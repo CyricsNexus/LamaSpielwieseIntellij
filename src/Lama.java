@@ -1,5 +1,3 @@
-import java.time.LocalDate;
-
 public class Lama{
     private String tiername;
     private String tierlaut = "Möööht";
@@ -9,4 +7,11 @@ public class Lama{
         System.out.println("Lama erstellt");
     }
 
+    public void laserLama() {
+        System.out.println("Laser pew pew");
+    }
+
+    public void sayByeBye(){
+        System.out.println("Hasta la vista Lama");
+    }
 }
